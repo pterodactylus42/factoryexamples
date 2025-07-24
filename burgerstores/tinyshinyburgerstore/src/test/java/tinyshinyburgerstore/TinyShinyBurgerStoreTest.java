@@ -8,6 +8,7 @@ import tinyburgerstore.ChiliCheeseBurger;
 
 public class TinyShinyBurgerStoreTest extends TestCase
 {
+	
 	public void testTinyShinyBurgerStore() throws Exception {
 		System.out.println("Ordering a SimpleBurger:");
 		SimpleShinyBurgerFactory simpleBurgerFactory = new SimpleShinyBurgerFactory();

@@ -76,5 +76,6 @@
     <module>simpleburgerstore</module>
     <module>tinyburgerstore</module>
     <module>tinyshinyburgerstore</module>
+    <module>ubiquitousburgerstore</module>
   </modules>
 </project>
