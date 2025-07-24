@@ -74,5 +74,7 @@
   </reporting>
   <modules>
     <module>simpleburgerstore</module>
+    <module>tinyburgerstore</module>
+    <module>tinyshinyburgerstore</module>
   </modules>
 </project>
