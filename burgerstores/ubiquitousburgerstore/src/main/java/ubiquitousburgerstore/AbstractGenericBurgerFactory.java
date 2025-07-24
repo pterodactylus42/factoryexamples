@@ -10,6 +10,7 @@ import simpleburgerstore.BurgerFactory;
  */
 public abstract class AbstractGenericBurgerFactory<B extends Burger> implements BurgerFactory {
 	
+	@Override
 	public B create() {
 		B burger = createBurger();
 		burger.make();
